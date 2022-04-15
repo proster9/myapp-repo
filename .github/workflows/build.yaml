@@ -73,3 +73,4 @@ jobs:
           git config --global user.name "proster9"
           git commit -am "Update image tag"
           git push -u origin main
+          
