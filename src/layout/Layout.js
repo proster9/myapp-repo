@@ -38,7 +38,7 @@ export default function Layout() {
                 <HomeIcon />
               </IconButton>
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                ExamApp
+                proster9 woosung create myapp now.
               </Typography>
             </Toolbar>
           </AppBar>
