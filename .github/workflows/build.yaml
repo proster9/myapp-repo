@@ -69,7 +69,7 @@ jobs:
       - name: Commit files
         run: |
            cd manifest-repo
-          git config --global user.email "woosung.choi@samsung.com"
+          git config --global user.email "woosung.choi@naver.com"
           git config --global user.name "proster9"
           git commit -am "Update image tag"
           git push -u origin main
