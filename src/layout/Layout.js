@@ -38,7 +38,7 @@ export default function Layout() {
                 <HomeIcon />
               </IconButton>
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                proster9-woosung-woon ee
+                proster9-woosung-2022-04-20, wednesday
               </Typography>
             </Toolbar>
           </AppBar>
